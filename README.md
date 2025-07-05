@@ -1,1 +1,1 @@
-# Genai-Project
+GenAI Story Generator is a web application that uses generative AI to create unique stories from user prompts. Built with React (frontend), Node.js (backend), HTML, and CSS, it offers an interactive interface for users to input ideas and receive creative, context-aware stories. The backend leverages advanced language models to generate engaging narratives in real time. This project demonstrates the power of AI in creative writing and serves as a foundation for further enhancements like genre selection, user feedback, and multilingual support.# Genai-Project
